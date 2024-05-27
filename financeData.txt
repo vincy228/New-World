@@ -1,2 +1,4 @@
 bankInterestRate=0.05
 mortgageInterestRate=0.05
+bankName=TD Bank
+financeName=iNTRO Finance
